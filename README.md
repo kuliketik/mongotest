@@ -22,7 +22,7 @@ run:
 
 - use mydb;
 
-- mydb.users.find()
+- db.users.find()
 
 { "_id" : ObjectId("57133ad9fbc0a4133b5cdbd5"), "name" : "rudi", "umur" : "12", "id" : "admin" }
 { "_id" : ObjectId("57133b2d141f49213b134692"), "name" : "rudi", "umur" : "12", "id" : "admin" }
